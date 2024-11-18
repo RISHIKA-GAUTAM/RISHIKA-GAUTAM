@@ -15,8 +15,8 @@
 - 📫 How to reach me ...
 . LinkedIn: www.linkedin.com/in/rishika-gautam-r840
 . Email: grishika840@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I’m a fresh B.Sc. (Hons.) Bioinformatics graduate who has turned a passion for problem-solving into a data-driven adventure—connecting dots and crafting insights from chaos!
 
 <!---
 RISHIKA-GAUTAM/RISHIKA-GAUTAM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
